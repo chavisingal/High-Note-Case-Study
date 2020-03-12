@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/chavisingal/High-Note-Case-Study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The “freemium” business model — widely used by online services such as LinkedIn, Match.com,
+Dropbox, and music-listening sites — divides user populations into groups that use the service
+for free and groups that pay a fee for additional features. Key points related to the freemium
+model:
+* Free accounts are monetized using online advertising
+* Premium subscribers (those paying a fee) are typically 24 times more profitable than free
+users
+* However, premium subscribers are rare
+High Note is an anonymized real music streaming company --- similar to Last.fm, Spotify or
+Pandora --- that uses a freemium business model.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Objective
+Given the higher profitability of premium subscribers, it is generally in the interest of company
+to motivate users to go from “free to fee”; that is, convert free accounts to premium
+subscribers. My task in regards to this case is to analyze the data for potential insight to inform
+a “free-to-fee” strategy.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chavisingal/High-Note-Case-Study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Literature shows that peer influence and user engagement can affect users’ decisions to pay for
+a premium subscription. Using the High Note data, I can thus predict the decision to buy using
+both types of variables. The results will quantify the effect of social engagement on revenue, as
+well as how valuable a premium subscriber can be in a freemium social community.
